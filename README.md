@@ -11,7 +11,7 @@ webtechnologie/
 │  │  │  ├─ image-1.jpg 
 │  │  │  └─ image-n.jpg 
 │  │  ├─ css/
-│  │  │   ├─ reset.css
+│  │  │   ├─ normalize.css
 │  │  │   └─ style.css
 │  │  └─ js/
 │  │     └─ script.js
@@ -74,7 +74,7 @@ Test je website op responsiviteit, zodat die werkt op alle schermgroottes.
 
 #### CSS
 
-- Maak gebruik van een reset.css
+- Maak gebruik van een `normalize.css`
 - De algemene layout van de website staat in een grid
 - Binnen sections zoals portfolio kan flex gebruikt worden
 - Gebruik als font "Arial", "Helvetica", sans-serif
